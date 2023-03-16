@@ -1,0 +1,13 @@
+{
+  "packs": [
+    "gray_persik_vk.json",
+    "snowynutri_vk.json",
+    "minty_vk.json",
+    "chris_vk.json",
+    "kristina_vk.json",
+    "krisandkristina.json",
+    "pollitrovaya.json",
+    "smiliesvkn.json"
+  ],
+  "homeserver_url": "https://riotchat.de"
+}
