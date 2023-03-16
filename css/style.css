@@ -1,0 +1,21 @@
+body {
+  color: #232323;
+  font-size: 15px;
+  text-align: center;
+  padding-top: 15%;
+  font-family: monospace;
+  background-color: #ffffff;
+}
+
+.rotate {
+  animation: rotation 8s infinite linear;
+}
+
+@keyframes rotation {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(359deg);
+  }
+}
